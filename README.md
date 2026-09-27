@@ -57,3 +57,7 @@ ONG-MAOS-DO-VALE/
 │   ├── app.js
 │   └── script.js
 └── README.md
+
+## Fluxo de desenvolvimento
+
+O projeto utiliza branches para organizar o desenvolvimento. A branch `main` representa a versão estável, enquanto a branch `develop` concentra a integração das alterações. Novas funcionalidades podem ser desenvolvidas em branches com o padrão `feature/nome-da-funcionalidade`.
